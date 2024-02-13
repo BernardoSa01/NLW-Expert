@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - O projeto consiste em um quiz interativo para testar conhecimentos técnicos em JavaScript. </br>
-Composta por 10 questões de múltipla escolha, a aplicação tratá um retorno sobre a quantidade de respostas corretas.
+Composta por 10 questões de múltipla escolha, a aplicação trará um retorno sobre a quantidade de respostas corretas.
 <br/></br>
 - [Acesse o projeto finalizado, online](https://bernardosa01.github.io/NLW-Expert)
 
