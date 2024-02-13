@@ -35,7 +35,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- O projeto consiste em um quiz interativo para testar conhecimentos técnicos em JavaScript. Composta por 10 questões de múltipla escolha, a aplicação tratá um retorno sobre a quantidade de respostas corretas.
+- O projeto consiste em um quiz interativo para testar conhecimentos técnicos em JavaScript. </br>
+Composta por 10 questões de múltipla escolha, a aplicação tratá um retorno sobre a quantidade de respostas corretas.
+<br/></br>
+- [Acesse o projeto finalizado, online](https://bernardosa01.github.io/NLW-Expert)
 
 
 ## 🔖 Layout
@@ -45,6 +48,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. </br>
 
-Feito por Bernardo Sá :wave: [Participe da comunidade da Rocketseat!](https://discord.gg/rocketseat)
+---
+</br>
+
+<p align="center"> Feito por Bernardo Sá :wave: [Participe da comunidade da Rocketseat!](https://discord.gg/rocketseat)</p>
